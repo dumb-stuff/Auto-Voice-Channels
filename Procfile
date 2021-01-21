@@ -1,1 +1,1 @@
-worker: auto-voice-channels.py
+worker: u.py
